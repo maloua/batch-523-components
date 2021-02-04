@@ -1,0 +1,14 @@
+.btn {
+	background-color: green;
+	padding: 12px 40px;
+	border-radius: 5px;
+	
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.btn:hover {
+	background-color: lightgreen;
+}
